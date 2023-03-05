@@ -1,6 +1,6 @@
-# Essential-Terminal-Commands-for-Mac-Users
 
-cat <<EOT >> README.md
+
+
 
 # Must-Have Terminal Commands for Mac
 
